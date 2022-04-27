@@ -15,7 +15,7 @@
 - PCF (Percentage Closer Filter) with random sampling, so that `visibility` will be a value between 0.0 and 1.0
 - PCSS (Percentage Closer Soft Shadow)
 
-![Lq8kwT.png](https://s1.ax1x.com/2022/04/27/Lq8kwT.png)
+![LqYsAK.png](https://s1.ax1x.com/2022/04/27/LqYsAK.png)
 
 
 
