@@ -5,7 +5,7 @@
 - get familiar with the code framework
 - potential bugs: [#1](https://games-cn.org/forums/topic/zuoye0-jieguobuwendingyoushimoxingxianshibuquan/), [#2](https://games-cn.org/forums/topic/zuoye0-huimobugdejiejuefangfa/)
 
-<img src="https://s1.ax1x.com/2022/04/24/L46qxJ.gif" alt="L46qxJ.gif" height="400" />
+<center><img src="https://s1.ax1x.com/2022/04/24/L46qxJ.gif" alt="L46qxJ.gif" height="400" /></center>
 
 
 
