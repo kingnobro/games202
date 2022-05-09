@@ -19,3 +19,11 @@
 
 
 
+### hw2
+
+- Precomputed Radiance Transfer
+
+<center><img src="https://s1.ax1x.com/2022/05/09/OJLt3j.png" alt="OJLt3j.png" height="320" /></center>
+
+![OJLNgs.png](https://s1.ax1x.com/2022/05/09/OJLNgs.png)
+
