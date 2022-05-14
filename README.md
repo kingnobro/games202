@@ -23,7 +23,15 @@
 
 - Precomputed Radiance Transfer
 
-<center><img src="https://s1.ax1x.com/2022/05/09/OJLt3j.png" alt="OJLt3j.png" height="320" /></center>
+<center><img src="https://s1.ax1x.com/2022/05/09/OJLt3j.png" alt="OJLt3j.png" height="400" /></center>
 
 ![OJLNgs.png](https://s1.ax1x.com/2022/05/09/OJLNgs.png)
+
+
+
+### hw3
+
+- SSR (Stochastic Screen-Space Reflections)
+
+![image](https://github.com/kingnobro/games202/blob/main/images/SSR.png)
 
