@@ -35,3 +35,10 @@
 
 ![image](https://github.com/kingnobro/games202/blob/main/images/SSR.png)
 
+
+### hw4
+
+- Microfacet BRDF
+- Kulla-Conty BRDF
+
+![image](https://github.com/kingnobro/games202/blob/main/images/PBR.png)
