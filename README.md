@@ -42,3 +42,11 @@
 - Kulla-Conty BRDF
 
 ![image](https://github.com/kingnobro/games202/blob/main/images/PBR.png)
+
+### hw5
+
+- Real Time Ray Tracing
+- Temporal Denoising
+- Outlier Removal
+
+![image](https://github.com/kingnobro/games202/blob/main/images/denoise.png)
