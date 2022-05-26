@@ -1,4 +1,4 @@
-# games202
+# Real-Time High-Quality Rendering
 
 ### hw0
 
